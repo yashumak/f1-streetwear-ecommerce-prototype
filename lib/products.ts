@@ -37,9 +37,9 @@ export const products: Product[] = [
   },
   {
     id: "4",
-    name: "APEX CORNER Tee",
+    name: "VELOCITY  CORNER Tee",
     price: 62,
-    image: "/placeholder.svg?height=500&width=500&text=APEX+CORNER+Tee",
+    image: "/placeholder.svg?height=500&width=500&text=VELOCITY +CORNER+Tee",
     description:
       "Technical racing tee with corner trajectory graphics. Features performance fabric blend and ergonomic racing fit.",
     category: "tees",
