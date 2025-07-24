@@ -6,6 +6,7 @@
   * {
     @apply border-border;
   }
+
   body {
     @apply bg-black text-white antialiased font-sans;
   }
@@ -22,11 +23,7 @@
 
   .card-racing {
     /* base + hover effects */
-    @/* ← space before next utility */ /* ← space before next utility */ apply bg-gray-900 border-2 border-gray-700 hover:border-red-500
-           transition-all duration-300
-           hover:scale-[1.02]   /* ← space before next utility */
-           hover:shadow-xl
-           hover:shadow-red-500/10;
+    @apply bg-gray-900 border-2 border-gray-700 hover:border-red-500;
   }
 
   .text-racing {

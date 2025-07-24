@@ -91,13 +91,13 @@ styles/             # Global and component CSS
 1. **Install dependencies:**
 
    ```sh
-   pnpm install
+   npx pnpm install
    ```
 
 2. **Run the development server:**
 
    ```sh
-   pnpm dev
+   npx pnpm dev
    ```
 
 3. **Open [http://localhost:3000](http://localhost:3000) in your browser**
