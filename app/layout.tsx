@@ -1,5 +1,5 @@
 import type React from "react"
-// ✅ IMPROVEMENT: Simplified layout with better performance
+
 import type { Metadata } from "next"
 import { Inter } from "next/font/google"
 import "./globals.css"
