@@ -1,4 +1,4 @@
-// ✅ IMPROVEMENT: Simplified home page focusing on core user journey
+
 import Image from "next/image"
 import Link from "next/link"
 import { RacingButton } from "@/components/ui/racing-button"
