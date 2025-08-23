@@ -14,7 +14,7 @@ export default function HomePage() {
 
   return (
     <div>
-      {/* Hero - Streamlined messaging */}
+   
       <section className="relative h-screen flex items-center justify-center">
         <div className="absolute inset-0">
           <Image
