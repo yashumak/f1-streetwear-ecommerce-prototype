@@ -5,7 +5,7 @@ export async function POST(request: NextRequest) {
     const body = await request.json()
     const { email, newPassword } = body
 
-    // Replace with your Make.com or Zapier webhook URL
+    
     const webhookUrl = "YOUR_MAKE_WEBHOOK_URL_HERE"
 
     const response = await fetch(webhookUrl, {
